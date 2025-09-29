@@ -1,4 +1,4 @@
-Google Ads Campaign Optimization (June – November 2024)
+# 📈 Google Ads Campaign Optimization (June – November 2024)
 
 This project documents the strategy, execution, and performance analysis of a Google Ads campaign conducted for Yubha – Premier CMT Prep Provider. Over six months, the campaign was optimized to maximize conversions, lower CPC, and improve ROI using a data-driven approach.
 
